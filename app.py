@@ -7,7 +7,6 @@ st.set_page_config(page_title="🎲 Lucky Dice Game", layout="centered")
 
 st.markdown("<h1 style='text-align: center; color: #4CAF50;'>🎲 Lucky Dice Roller</h1>", unsafe_allow_html=True)
 st.markdown("<p style='text-align: center;'>Roll 8 dice and win amazing prizes!</p>", unsafe_allow_html=True)
-
 dice_faces = {
     1: "🎲1️⃣",
     2: "🎲2️⃣",
